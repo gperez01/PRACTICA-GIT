@@ -4,7 +4,7 @@ html,body {
 }
 header {
 	display:block;
-	background:#d7e0e9;
+	background:#880808;
 	padding:10px 0px;
 }
 section {
@@ -21,7 +21,7 @@ footer {
 	height: 40px;
 	padding:5px 0px;
 	clear: both;
-	background: #d7e0e9;
+	background: #880808;
 	text-align: center;
 	color: black;
 }
